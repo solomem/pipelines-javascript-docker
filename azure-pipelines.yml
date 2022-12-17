@@ -27,4 +27,5 @@ steps:
       # Write your commands here
       
       echo 'Hello world'
+      ls
     
