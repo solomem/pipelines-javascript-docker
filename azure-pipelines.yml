@@ -27,5 +27,8 @@ steps:
       # Write your commands here
       
       echo 'Hello world'
+      echo '------------------'
+      python3 --version
+      which python3
       ls
     
